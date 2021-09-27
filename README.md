@@ -3,5 +3,5 @@
 ### delete branch
 
 ```
-git push origin --delete branch-name
+git push origin -d branch-name
 ```
