@@ -14,3 +14,7 @@ git branch new-branch-name
 git push origin -d branch-name
 ```
 
+### unlock .git
+```
+sudo chmod -R 755 .git
+```
