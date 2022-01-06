@@ -18,3 +18,7 @@ git push origin -d branch-name
 ```
 sudo chmod -R 755 .git
 ```
+
+### pull from origin into branch
+git fetch
+git rebase origin
