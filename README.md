@@ -31,3 +31,11 @@ sudo chmod -R 755 .git
 git fetch
 git rebase origin
 ```
+
+####  Merging remote upstream changes into your local repository
+```
+git pull
+```
+
+
+
