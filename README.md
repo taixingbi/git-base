@@ -32,7 +32,7 @@ git fetch
 git rebase origin
 ```
 
-####  Merging remote upstream changes into your local repository
+####  merging remote upstream changes into your local repository
 ```
 git pull
 ```
