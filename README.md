@@ -13,7 +13,7 @@ git branch new-branch-name
 git push origin -d branch-name
 ```
 
-#### delete branch
+#### merge branch
 ```
 git checkout main
 git merge --squash branch-name
