@@ -21,6 +21,20 @@ git commit
 git push
 ```
 
+#### rebase branch feature to qa
+```
+git checkout feature
+git rebase qa
+```
+then got 
+error: cannot rebase: You have unstaged changes.
+error: Please commit or stash them.
+```
+git add .
+git commit -m "rebase"
+git push
+```
+
 #### unlock .git
 ```
 sudo chmod -R 755 .git
