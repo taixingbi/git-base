@@ -51,5 +51,9 @@ git rebase origin
 git pull
 ```
 
+#### revert merged commit 
+```
+git revert -m 1 <merge-commit>
+```
 
 
